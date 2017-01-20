@@ -1,0 +1,11 @@
+---
+brew_taps:
+  - caskroom/versions
+brew_packages:
+  - ghq
+  - git
+  - rbenv
+  - ruby-build
+  - zsh
+cask_packages:
+  - google-chrome-canary
