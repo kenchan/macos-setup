@@ -9,3 +9,7 @@ brew_packages:
   - zsh
 cask_packages:
   - google-chrome-canary
+  - google-japanese-ime
+  - karabiner-elements
+  - kensington-trackball-works
+  - shortcuts
