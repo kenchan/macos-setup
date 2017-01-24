@@ -1,5 +1,5 @@
 node[:brew_taps].each do |tap|
-  execute 'install brew tap' do
+  execute "install brew tap: #{tap}" do
     command "brew tap #{tap}"
     not_if "brew tap | grep -q #{tap}"
   end
