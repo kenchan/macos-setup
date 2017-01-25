@@ -1,15 +1,37 @@
 ---
 brew_taps:
   - caskroom/versions
+  - sanemat/font
 brew_packages:
+  - direnv
   - ghq
   - git
+  - heroku
+  - hub
+  - mysql
+  - mytop
+  - openssl
+  - peco
+  - postgresql
   - rbenv
+  - readline
+  - reattach-to-user-namespace
+  - redis
+  - ricty
   - ruby-build
+  - the_platinum_searcher
+  - tmux
   - zsh
+  - zsh-completions
 cask_packages:
-  - google-chrome-canary
+  - google-chrome-dev
   - google-japanese-ime
   - karabiner-elements
+  - keepassx
   - kensington-trackball-works
+  - phpstorm
   - shortcuts
+  - tunnelblick
+  - vagrant
+  - virtualbox
+  - visual-studio-code
