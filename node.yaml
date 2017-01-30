@@ -8,27 +8,35 @@ brew_packages:
   - git
   - heroku
   - hub
+  - mongodb
   - mysql
   - mytop
   - openssl
   - peco
+  - percona-toolkit
   - postgresql
+  - python3
   - rbenv
   - readline
   - reattach-to-user-namespace
   - redis
   - ricty
   - ruby-build
+  - terraform
   - the_platinum_searcher
   - tmux
+  - vim
   - zsh
   - zsh-completions
 cask_packages:
+  - docker-beta
+  - dropbox
   - google-chrome-dev
   - google-japanese-ime
   - karabiner-elements
   - keepassx
   - kensington-trackball-works
+  - kindle
   - phpstorm
   - shortcuts
   - tunnelblick
