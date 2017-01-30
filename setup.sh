@@ -1,12 +1,12 @@
 #!/bin/bash
 
-MITAMAE_BIN="mitamae-x86_64-darwin"
 MITAMAE_VERSION="1.3.2"
 
-if [ ! -e bin/${MITAMAE_BIN} ]; then
-  curl -LJO https://github.com/k0kubun/mitamae/releases/download/v${MITAMAE_VERSION}/${MITAMAE_BIN}.tar.gz
-  tar -zxf ${MITAMAE_BIN}.tar.gz -C bin
-  rm ${MITAMAE_BIN}.tar.gz
+if [ ! -e bin/mitamae ]; then
+  curl -LJO https://github.com/k0kubun/mitamae/releases/download/v${MITAMAE_VERSION}/mitamae-x86_64-darwin.tar.gz
+  tar -zxf mitamae-x86_64-darwin.tar.gz -C bin
+  rm mitamae-x86_64-darwin.tar.gz
+  ln -sf mitamae-x86_64-darwin bin/mitamae
 fi
 
-bin/${MITAMAE_BIN} local --node-yaml node.yaml recipe.rb
+bin/mitamae local --node-yaml node.yaml recipe.rb
