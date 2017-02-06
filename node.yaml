@@ -6,6 +6,7 @@ brew_packages:
   - direnv
   - ghq
   - git
+  - go
   - heroku
   - hub
   - mongodb
