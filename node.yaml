@@ -1,6 +1,7 @@
 ---
 brew_taps:
   - caskroom/versions
+  - caskroom/drivers
   - sanemat/font
 brew_packages:
   - direnv
