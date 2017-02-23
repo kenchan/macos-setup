@@ -6,6 +6,7 @@ brew_taps:
 brew_packages:
   - direnv
   - ghq
+  - gibo
   - git
   - go
   - heroku
@@ -30,6 +31,8 @@ brew_packages:
   - vim
   - zsh
   - zsh-completions
+  - influxdb
+  - grafana
 cask_packages:
   - docker-beta
   - dropbox
