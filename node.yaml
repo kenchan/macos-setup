@@ -4,6 +4,8 @@ brew_taps:
   - caskroom/drivers
   - sanemat/font
 brew_packages:
+  - ansible
+  - awscli
   - direnv
   - ghq
   - gibo
@@ -14,6 +16,8 @@ brew_packages:
   - mongodb
   - mysql
   - mytop
+  - imagemagick
+  - libxml2
   - openssl
   - peco
   - percona-toolkit
@@ -48,3 +52,6 @@ cask_packages:
   - vagrant
   - virtualbox
   - visual-studio-code
+  - skype
+  - vlc
+  - marp
