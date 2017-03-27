@@ -6,6 +6,7 @@ brew_taps:
 brew_packages:
   - ansible
   - awscli
+  - cmake
   - direnv
   - ghq
   - gibo
