@@ -1,7 +1,7 @@
 ---
 brew_taps:
-  - caskroom/versions
   - caskroom/drivers
+  - caskroom/versions
   - sanemat/font
 brew_packages:
   - ansible
@@ -12,13 +12,15 @@ brew_packages:
   - gibo
   - git
   - go
+  - grafana
   - heroku
   - hub
+  - imagemagick
+  - influxdb
+  - libxml2
   - mongodb
   - mysql
   - mytop
-  - imagemagick
-  - libxml2
   - openssl
   - peco
   - percona-toolkit
@@ -36,8 +38,6 @@ brew_packages:
   - vim
   - zsh
   - zsh-completions
-  - influxdb
-  - grafana
 cask_packages:
   - docker-beta
   - dropbox
@@ -47,12 +47,12 @@ cask_packages:
   - keepassx
   - kensington-trackball-works
   - kindle
+  - marp
   - phpstorm
   - shortcuts
+  - skype
   - tunnelblick
   - vagrant
   - virtualbox
   - visual-studio-code
-  - skype
   - vlc
-  - marp
