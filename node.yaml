@@ -43,6 +43,7 @@ cask_packages:
   - dropbox
   - google-chrome-dev
   - google-japanese-ime
+  - jasper
   - karabiner-elements
   - keepassx
   - kensington-trackball-works
