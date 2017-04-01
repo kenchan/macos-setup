@@ -8,6 +8,7 @@ brew_packages:
   - awscli
   - cmake
   - direnv
+  - elixir
   - ghq
   - gibo
   - git
