@@ -7,6 +7,7 @@ brew_packages:
   - ansible
   - awscli
   - cmake
+  - composer
   - direnv
   - elixir
   - ghq
@@ -25,6 +26,7 @@ brew_packages:
   - openssl
   - peco
   - percona-toolkit
+  - php71
   - postgresql
   - python3
   - rbenv
