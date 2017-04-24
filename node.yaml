@@ -42,6 +42,7 @@ brew_packages:
   - zsh
   - zsh-completions
 cask_packages:
+  - cmd-eikana
   - docker-beta
   - dropbox
   - google-chrome-dev
