@@ -47,12 +47,12 @@ cask_packages:
   - google-chrome-dev
   - google-japanese-ime
   - jasper
+  - jetbrains-toolbox
   - karabiner-elements
   - keepassx
   - kensington-trackball-works
   - kindle
   - marp
-  - phpstorm
   - shortcuts
   - skype
   - tunnelblick
