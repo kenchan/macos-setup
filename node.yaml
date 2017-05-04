@@ -42,10 +42,12 @@ brew_packages:
   - zsh
   - zsh-completions
 cask_packages:
+  - appcleaner
   - cmd-eikana
   - docker-beta
   - dropbox
   - google-chrome-dev
+  - google-chrome-canary
   - google-japanese-ime
   - jasper
   - jetbrains-toolbox
