@@ -59,7 +59,6 @@ cask_packages:
   - marp
   - shortcuts
   - skype
-  - tunnelblick
   - vagrant
   - virtualbox
   - visual-studio-code
