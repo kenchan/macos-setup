@@ -21,6 +21,7 @@ brew_packages:
   - influxdb
   - libxml2
   - mongodb
+  - mozjpeg
   - mysql
   - mytop
   - openssl
