@@ -25,6 +25,7 @@ brew_packages:
   - mozjpeg
   - mysql
   - mytop
+  - m-cli
   - openssl
   - peco
   - percona-toolkit
