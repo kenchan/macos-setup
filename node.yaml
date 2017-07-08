@@ -65,3 +65,4 @@ cask_packages:
   - virtualbox
   - visual-studio-code
   - vlc
+  - slack
