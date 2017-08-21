@@ -44,10 +44,13 @@ brew_packages:
   - vim
   - zsh
   - zsh-completions
+
+  - zeromp
+  - czmp
+
 cask_packages:
   - android-studio
   - appcleaner
-  - cmd-eikana
   - docker-beta
   - dropbox
   - google-chrome
