@@ -45,7 +45,6 @@ brew_packages:
   - zsh
   - zsh-completions
   - zeromq
-  - czmp
 
 cask_packages:
   - android-studio
