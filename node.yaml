@@ -8,6 +8,7 @@ brew_packages:
   - awscli
   - cmake
   - composer
+  - czmq
   - direnv
   - elixir
   - envchain
