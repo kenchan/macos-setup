@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MITAMAE_VERSION="1.3.3"
+MITAMAE_VERSION="1.5.1"
 
 if [ ! -e bin/mitamae ]; then
   curl -LJO https://github.com/k0kubun/mitamae/releases/download/v${MITAMAE_VERSION}/mitamae-x86_64-darwin.tar.gz
