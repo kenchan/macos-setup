@@ -41,7 +41,6 @@ brew_packages:
   - ruby-build
   - terraform
   - the_platinum_searcher
-  - tmux
   - vim
   - zsh
   - zsh-completions
