@@ -64,6 +64,5 @@ cask_packages:
   - skype
   - vagrant
   - virtualbox
-  - visual-studio-code
   - vlc
   - slack
