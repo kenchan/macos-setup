@@ -9,4 +9,4 @@ if [ ! -e bin/mitamae ]; then
   ln -sf mitamae-x86_64-darwin bin/mitamae
 fi
 
-bin/mitamae local --node-yaml node.yaml recipe.rb
+HOMEBREW_NO_AUTO_UPDATE=true bin/mitamae local recipe.rb

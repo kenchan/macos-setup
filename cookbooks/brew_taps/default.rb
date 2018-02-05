@@ -1,6 +1,9 @@
-node[:brew_taps].each do |tap|
-  execute "install brew tap: #{tap}" do
-    command "brew tap #{tap}"
-    not_if "brew tap | grep -q #{tap}"
+%w(
+caskroom/drivers
+caskroom/versions
+).each do |pkg|
+  execute "install brew tap: #{pkg}" do
+    command "brew tap #{pkg}"
+    not_if "brew tap | grep -q #{pkg}"
   end
 end

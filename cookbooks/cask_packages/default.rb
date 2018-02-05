@@ -1,6 +1,25 @@
-node[:cask_packages].each do |pkg|
-  execute "install cask package: #{pkg}" do
-    command "brew cask install #{pkg}"
-    not_if "brew cask list | grep -q #{pkg}"
-  end
+%w(
+android-studio
+appcleaner
+aquaskk
+docker-beta
+dropbox
+google-chrome
+google-chrome-canary
+google-photos-backup-and-sync
+firefox
+jetbrains-toolbox
+karabiner-elements
+keepassx
+kensington-trackball-works
+kindle
+marp
+shortcuts
+skype
+slack
+vagrant
+virtualbox
+vlc
+).each do |pkg|
+  cask pkg
 end
