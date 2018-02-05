@@ -23,7 +23,6 @@ brew_packages:
   - libxml2
   - mozjpeg
   - mytop
-  - m-cli
   - openssl
   - peco
   - percona-toolkit
