@@ -3,3 +3,7 @@
     action :install
   end
 end
+
+package 'percona-toolkit' do
+  action :install
+end
