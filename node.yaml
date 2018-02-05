@@ -47,7 +47,6 @@ cask_packages:
   - dropbox
   - google-chrome
   - google-chrome-canary
-  - google-japanese-ime
   - google-photos-backup-and-sync
   - jasper
   - jetbrains-toolbox
@@ -62,3 +61,4 @@ cask_packages:
   - virtualbox
   - vlc
   - slack
+  - aquaskk
