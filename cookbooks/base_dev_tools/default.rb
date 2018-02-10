@@ -17,6 +17,7 @@ peco
 redis
 terraform
 the_platinum_searcher
+tmux
 
 cmake
 libxml2
