@@ -34,3 +34,8 @@ python3
     action :install
   end
 end
+
+package 'gnu-sed' do
+  action :install
+  options '--with-default-names'
+end
