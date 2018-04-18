@@ -14,6 +14,7 @@ hub
 imagemagick
 mozjpeg
 peco
+rcm
 redis
 terraform
 the_platinum_searcher
