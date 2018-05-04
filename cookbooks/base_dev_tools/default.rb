@@ -16,6 +16,7 @@ mozjpeg
 peco
 rcm
 redis
+ripgrep
 terraform
 the_platinum_searcher
 tmux
