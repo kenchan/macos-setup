@@ -9,10 +9,13 @@ envchain
 ghq
 gibo
 git
+global
 heroku
 hub
 imagemagick
+jq
 mozjpeg
+nkf
 peco
 rcm
 redis
