@@ -7,19 +7,26 @@ dropbox
 google-chrome
 google-chrome-canary
 google-photos-backup-and-sync
+grammarly
 firefox
 jetbrains-toolbox
 karabiner-elements
-keepassx
+keepassxc
 kensington-trackball-works
 kindle
+licecap
+macvim
 marp
+mendeley
+sequel-pro
 shortcuts
 skype
 slack
 vagrant
 virtualbox
 vlc
+wireshark
+zoomus
 ).each do |pkg|
   cask pkg
 end
