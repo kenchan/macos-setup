@@ -2,13 +2,14 @@
 android-studio
 appcleaner
 aquaskk
+discord
 docker-beta
 dropbox
+firefox
 google-chrome
 google-chrome-canary
 google-photos-backup-and-sync
 grammarly
-firefox
 jetbrains-toolbox
 karabiner-elements
 keepassxc
@@ -20,6 +21,7 @@ marp
 mendeley
 sequel-pro
 shortcuts
+skitch
 skype
 slack
 vagrant
