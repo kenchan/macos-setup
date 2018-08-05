@@ -13,6 +13,7 @@ global
 heroku
 hub
 imagemagick
+jid
 jq
 mozjpeg
 nkf
