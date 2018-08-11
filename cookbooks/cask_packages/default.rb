@@ -8,7 +8,6 @@ dropbox
 firefox
 google-chrome
 google-chrome-canary
-google-photos-backup-and-sync
 grammarly
 jetbrains-toolbox
 karabiner-elements
