@@ -25,7 +25,6 @@ skype
 slack
 vagrant
 virtualbox
-vivaldi
 vlc
 wireshark
 zoomus
