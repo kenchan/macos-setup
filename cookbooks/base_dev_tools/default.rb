@@ -34,7 +34,6 @@ composer
 elixir
 go
 php71
-python3
 ).each do |pkg|
   package pkg do
     action :install
