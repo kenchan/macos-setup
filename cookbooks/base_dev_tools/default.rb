@@ -18,6 +18,7 @@ jq
 mozjpeg
 nkf
 peco
+pssh
 rcm
 redis
 ripgrep
