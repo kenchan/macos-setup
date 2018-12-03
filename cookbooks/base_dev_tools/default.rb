@@ -27,6 +27,7 @@ the_platinum_searcher
 tmux
 
 cmake
+dive
 libxml2
 openssl
 readline
